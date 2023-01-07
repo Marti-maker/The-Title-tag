@@ -6,7 +6,7 @@ window.addEventListener("DOMContentLoaded", () => {
     function(){ 
       document.title="One new message!" 
     }, 
-    6000  // 6000 milliseconds = 6 seconds
+    3000  
   ); 
 
   const button = document.querySelector(".button");
